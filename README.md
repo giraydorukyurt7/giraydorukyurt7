@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Giray
+- 👀 I’m interested in OpenGL, game development.
+- 🌱 I’m currently learning OpenGL
+- 📫 My linkedin --> https://www.linkedin.com/in/giraydorukyurt7/
