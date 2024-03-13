@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Giray
-- 👀 I’m interested in OpenGL, game development.
-- 🌱 I’m currently learning OpenGL
-- 📫 My linkedin --> https://www.linkedin.com/in/giraydorukyurt7/
+- 👋 Hi, I’m Giray, I am a software engineering student.
+- 👀 I’m currently learning Javascript along with CSS and HTML by myself. And Learning SQL from my school.
+- 📫 My LinkedIn --> https://www.linkedin.com/in/giraydorukyurt7/
