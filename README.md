@@ -19,8 +19,8 @@
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giraydorukyurt7&show_icons=true&locale=en&layout=compact&langs_count=20" alt="giraydorukyurt7" /></p> -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=giraydorukyurt7&show_icons=true&locale=en&theme=shadow_red&layout=pie&langs_count=20" alt="giraydorukyurt7" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giraydorukyurt7&show_icons=true&locale=en&theme=shadow_red" alt="giraydorukyurt7" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=giraydorukyurt7&show_icons=true&locale=en&theme=midnight-purple&layout=pie&langs_count=20" alt="giraydorukyurt7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giraydorukyurt7&show_icons=true&locale=en&theme=midnight-purple" alt="giraydorukyurt7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giraydorukyurt7&theme=shadow_red" alt="giraydorukyurt7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giraydorukyurt7&theme=midnight-purple" alt="giraydorukyurt7" /></p>
 
