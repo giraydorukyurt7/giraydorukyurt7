@@ -49,7 +49,7 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
     <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/ST_logo.svg" alt="stm32" width="40" height="40"/> </a>
+        <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/STMicroelectronics_logo.svg" alt="stm32" width="40" height="40"/> </a>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giraydorukyurt7&show_icons=true&locale=en&layout=compact&langs_count=20" alt="giraydorukyurt7" /></p> -->
