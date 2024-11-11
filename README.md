@@ -50,9 +50,9 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
     <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/STMicroelectronics_logo.svg" alt="stm32" width="40" height="40"/> </a>
-
     <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/>
+</a>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giraydorukyurt7&show_icons=true&locale=en&layout=compact&langs_count=20" alt="giraydorukyurt7" /></p> -->
