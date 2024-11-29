@@ -57,7 +57,7 @@
     <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="xml" width="40" height="40"/>
 </a>
     <a href="https://www.w3.org/TR/xslt/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="xslt" width="40" height="40"/>
+    <img src=" https://upload.wikimedia.org/wikipedia/commons/1/15/XSLT.svg" alt="xslt" width="40" height="40"/>
 </a>
 </p>
 
