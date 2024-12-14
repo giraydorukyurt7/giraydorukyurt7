@@ -56,6 +56,8 @@
         <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="xml" width="40" height="40"/> </a>
     <a href="https://www.w3.org/TR/xslt/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/XSLT.svg" alt="xslt" width="40" height="40"/> </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/> </a>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giraydorukyurt7&show_icons=true&locale=en&layout=compact&langs_count=20" alt="giraydorukyurt7" /></p> -->
