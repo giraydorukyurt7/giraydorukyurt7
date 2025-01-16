@@ -105,3 +105,65 @@
             </tr>
         </tbody>
     </table>
+
+<table border="1" cellpadding="10">
+        <thead>
+            <tr>
+                <th colspan="3">My Projects</th>
+            </tr>
+            <tr>
+                <th>Project Name</th>
+                <th>Technology/Topic</th>
+                <th>Languages</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Brain-Tumor-Classifier" target="_blank">Brain Tumor Classifier</a></td>
+                <td>CNN</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/OptimalPlantCareXML" target="_blank">Optimal Plant Care</a></td>
+                <td>XML, XSLT</td>
+                <td>JavaScript, CSS, Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Environmental-Monitoring-System-For-Plants-And-Plant-Care-System-IOT" target="_blank">Environmental Monitoring System</a></td>
+                <td>IOT</td>
+                <td>Arduino</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Photo_Ascii_And_Emoji_Converter" target="_blank">Photo ASCII & Emoji Converter (WIP)</a></td>
+                <td>Image Processing</td>
+                <td>Python</td>
+            </tr>
+        </tbody>
+    </table>
+
+<br>
+
+<table border="1" cellpadding="10">
+        <thead>
+            <tr>
+                <th colspan="3">Others</th>
+            </tr>
+            <tr>
+                <th>Project Name</th>
+                <th>Technology/Topic</th>>
+                <th>Languages</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Video-To-Image-Dataset-Generator" target="_blank">Video To Image Dataset Generator</a></td>
+                <td>Video Processing</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/NLP-textCleaner" target="_blank">NLP Text Cleaner</a></td>
+                <td>NLP</td>
+                <td>Python</td>
+            </tr>
+        </tbody>
+    </table>
