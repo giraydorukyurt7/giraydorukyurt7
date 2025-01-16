@@ -151,7 +151,8 @@
 <table border="1" cellpadding="10">
         <thead>
             <tr>
-                <th colspan="3">Projects Developped Throught Various Tutorials And Courses</th>
+                <th colspan="3">Projects Developed Through Various Tutorials And Courses</th>
+                <th colspan="3">Note: This table includes only prominent projects. More tutorial/course projects can be found in other repositories on my GitHub profile.</th>
             </tr>
             <tr>
                 <th>Project Name</th>
