@@ -89,13 +89,13 @@
                 <td>Python</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/giraydorukyurt7/OptimalPlantCareXML" target="_blank">Optimal Plant Care</a></td>
+                <td><a href="https://github.com/giraydorukyurt7/OptimalPlantCareXML" target="_blank">Optimal Plant Care XML</a></td>
                 <td>XML, XSLT</td>
-                <td>JavaScript, CSS, Python</td>
+                <td>XML, XSLT, JavaScript, CSS, Python</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/giraydorukyurt7/Environmental-Monitoring-System-For-Plants-And-Plant-Care-System-IOT" target="_blank">Environmental Monitoring System</a></td>
-                <td>IOT</td>
+                <td><a href="https://github.com/giraydorukyurt7/Environmental-Monitoring-System-For-Plants-And-Plant-Care-System-IOT" target="_blank">Environmental Monitoring System IOT</a></td>
+                <td>Embedded Systems, IOT</td>
                 <td>Arduino</td>
             </tr>
             <tr>
@@ -104,12 +104,27 @@
                 <td>Python</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/giraydorukyurt7/Heart-Beat-Animation-with-8x8-Dot-Matrix-by-using-STM32f103c8t6" target="_blank">Heart Beat Animation</a></td>
+                <td><a href="https://github.com/giraydorukyurt7/WIKIMEDIA-WORDCLOUD-GENERATOR" target="_blank">Wikimedia WordCloud Generator</a></td>
+                <td>WordCloud Visualization</td>
+                <td>Python, JavaScript, HTML, CSS</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/KOZMOS-SENTIMENT-ANALYSIS-NLP" target="_blank">Kozmos Sentiment Analysis</a></td>
+                <td>NLP, Sentiment Analysis</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Discord-Status-Changer" target="_blank">Discord Status Changer</a></td>
+                <td>PC Application</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Heart-Beat-Animation-with-8x8-Dot-Matrix-by-using-STM32f103c8t6" target="_blank">Heart Beat Animation with 8x8 Dot Matrix</a></td>
                 <td>Embedded Systems</td>
                 <td>STM32</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/giraydorukyurt7/Basketball-Animation-with-8x8-Dot-Matrix-by-using-STM32f103c8t6" target="_blank">Basketball Animation</a></td>
+                <td><a href="https://github.com/giraydorukyurt7/Basketball-Animation-with-8x8-Dot-Matrix-by-using-STM32f103c8t6" target="_blank">Basketball Animation with 8x8 Dot Matrix</a></td>
                 <td>Embedded Systems</td>
                 <td>STM32</td>
             </tr>
@@ -167,27 +182,27 @@
             </tr>
             <tr>
                 <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/02_DNN_APPLICATION_IMAGE_CLASSIFICATION" target="_blank">DNN - Image Classification</a></td>
-                <td>OpenCV</td>
+                <td>OpenCV, DNN</td>
                 <td>Python</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/03_DNN_WITH_SSD_MODEL_APPLICATION_SINGLE_CLASS_IMAGE_CLASSIFICATION" target="_blank">DNN with SSD - Single Class Image Classification</a></td>
-                <td>OpenCV</td>
+                <td>OpenCV, SSD</td>
                 <td>Python</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/04_DNN_WITH_SSD_MODEL_APPLICATION_REAL-TIME_OBJECT_RECOGNITION" target="_blank">Real-Time Object Recognition</a></td>
-                <td>OpenCV</td>
+                <td>OpenCV, SSD</td>
                 <td>Python</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/05_DNN_APPLICATION_VIDEO_FACE_DETECTION_BASED_ON_RESIDUAL_NETWORK" target="_blank">Video Face Detection</a></td>
-                <td>OpenCV</td>
+                <td>OpenCV, ResNet</td>
                 <td>Python</td>
             </tr>
             <tr>
                 <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Natural_Language_Processing" target="_blank">Sentiment Analysis on Amazon Dataset</a></td>
-                <td>NLP</td>
+                <td>NLP, Sentiment Analysis</td>
                 <td>Python</td>
             </tr>
         </tbody>
