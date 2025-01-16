@@ -103,6 +103,16 @@
                 <td>Image Processing</td>
                 <td>Python</td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Heart-Beat-Animation-with-8x8-Dot-Matrix-by-using-STM32f103c8t6" target="_blank">Heart Beat Animation</a></td>
+                <td>Embedded Systems</td>
+                <td>STM32</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Basketball-Animation-with-8x8-Dot-Matrix-by-using-STM32f103c8t6" target="_blank">Basketball Animation</a></td>
+                <td>Embedded Systems</td>
+                <td>STM32</td>
+            </tr>
         </tbody>
     </table>
 
@@ -138,6 +148,31 @@
             <tr>
                 <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/LSTM" target="_blank">LSTM - Tesla Stock Forecast Estimation</a></td>
                 <td>LSTM</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/02_DNN_APPLICATION_IMAGE_CLASSIFICATION" target="_blank">DNN - Image Classification</a></td>
+                <td>OpenCV</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/03_DNN_WITH_SSD_MODEL_APPLICATION_SINGLE_CLASS_IMAGE_CLASSIFICATION" target="_blank">DNN with SSD - Single Class Image Classification</a></td>
+                <td>OpenCV</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/04_DNN_WITH_SSD_MODEL_APPLICATION_REAL-TIME_OBJECT_RECOGNITION" target="_blank">Real-Time Object Recognition</a></td>
+                <td>OpenCV</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/05_DNN_APPLICATION_VIDEO_FACE_DETECTION_BASED_ON_RESIDUAL_NETWORK" target="_blank">Video Face Detection</a></td>
+                <td>OpenCV</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Natural_Language_Processing" target="_blank">Sentiment Analysis on Amazon Dataset</a></td>
+                <td>NLP</td>
                 <td>Python</td>
             </tr>
         </tbody>
