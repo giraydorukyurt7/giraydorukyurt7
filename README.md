@@ -113,6 +113,21 @@
                 <td>Embedded Systems</td>
                 <td>STM32</td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Website-Saver-Google-Extension" target="_blank">Website Saver (Google Extension)</a></td>
+                <td>Browser Extension</td>
+                <td>JavaScript, CSS, HTML</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Blackjack-Simulator" target="_blank">Blackjack Simulator</a></td>
+                <td>Game Simulation</td>
+                <td>JavaScript, CSS, HTML</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Chocolate-Piece-Counter" target="_blank">Chocolate Piece Counter</a></td>
+                <td>Web Application</td>
+                <td>JavaScript, CSS, HTML</td>
+            </tr>
         </tbody>
     </table>
 
@@ -199,7 +214,7 @@
             </tr>
             <tr>
                 <td><a href="https://github.com/giraydorukyurt7/NLP-textCleaner" target="_blank">NLP Text Cleaner</a></td>
-                <td>NLP</td>
+                <td>Text Processing</td>
                 <td>Python</td>
             </tr>
         </tbody>
