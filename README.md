@@ -68,3 +68,40 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giraydorukyurt7&theme=midnight-purple" alt="giraydorukyurt7" /></p>
 
+
+<br>
+
+<table border="1" cellpadding="10">
+        <thead>
+            <tr>
+                <th colspan="3">Projects Developped Throught Various Tutorials And Courses</th>
+            </tr>
+            <tr>
+                <th>Project Name</th>
+                <th>Technology/Topic</th>
+                <th>Languages</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/ANN" target="_blank">ANN - Number Classification</a></td>
+                <td>ANN</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/CNN" target="_blank">CNN - Garbage Classification</a></td>
+                <td>CNN</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/RNN" target="_blank">RNN - Airplane Passenger Number Estimation</a></td>
+                <td>RNN</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/LSTM" target="_blank">LSTM - Tesla Stock Forecast Estimation</a></td>
+                <td>LSTM</td>
+                <td>Python</td>
+            </tr>
+        </tbody>
+    </table>
