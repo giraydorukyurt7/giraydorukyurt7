@@ -74,41 +74,6 @@
 <table border="1" cellpadding="10">
         <thead>
             <tr>
-                <th colspan="3">Projects Developped Throught Various Tutorials And Courses</th>
-            </tr>
-            <tr>
-                <th>Project Name</th>
-                <th>Technology/Topic</th>
-                <th>Languages</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/ANN" target="_blank">ANN - Number Classification</a></td>
-                <td>ANN</td>
-                <td>Python</td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/CNN" target="_blank">CNN - Garbage Classification</a></td>
-                <td>CNN</td>
-                <td>Python</td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/RNN" target="_blank">RNN - Airplane Passenger Number Estimation</a></td>
-                <td>RNN</td>
-                <td>Python</td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/LSTM" target="_blank">LSTM - Tesla Stock Forecast Estimation</a></td>
-                <td>LSTM</td>
-                <td>Python</td>
-            </tr>
-        </tbody>
-    </table>
-
-<table border="1" cellpadding="10">
-        <thead>
-            <tr>
                 <th colspan="3">My Projects</th>
             </tr>
             <tr>
@@ -136,6 +101,43 @@
             <tr>
                 <td><a href="https://github.com/giraydorukyurt7/Photo_Ascii_And_Emoji_Converter" target="_blank">Photo ASCII & Emoji Converter (WIP)</a></td>
                 <td>Image Processing</td>
+                <td>Python</td>
+            </tr>
+        </tbody>
+    </table>
+
+<br>
+
+<table border="1" cellpadding="10">
+        <thead>
+            <tr>
+                <th colspan="3">Projects Developped Throught Various Tutorials And Courses</th>
+            </tr>
+            <tr>
+                <th>Project Name</th>
+                <th>Technology/Topic</th>
+                <th>Languages</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/ANN" target="_blank">ANN - Number Classification</a></td>
+                <td>ANN</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/CNN" target="_blank">CNN - Garbage Classification</a></td>
+                <td>CNN</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/RNN" target="_blank">RNN - Airplane Passenger Number Estimation</a></td>
+                <td>RNN</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/LSTM" target="_blank">LSTM - Tesla Stock Forecast Estimation</a></td>
+                <td>LSTM</td>
                 <td>Python</td>
             </tr>
         </tbody>
