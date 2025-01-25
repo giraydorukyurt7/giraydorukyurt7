@@ -89,6 +89,11 @@
                 <td>Python</td>
             </tr>
             <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Classifier-For-Shells-Of-Nuts" target="_blank">Classifier For Shells Of Nuts</a></td>
+                <td>CNN</td>
+                <td>Python</td>
+            </tr>
+            <tr>
                 <td><a href="https://github.com/giraydorukyurt7/OptimalPlantCareXML" target="_blank">Optimal Plant Care XML</a></td>
                 <td>XML, XSLT</td>
                 <td>XML, XSLT, JavaScript, CSS, Python</td>
