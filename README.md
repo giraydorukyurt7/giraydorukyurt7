@@ -134,6 +134,11 @@
                 <td>STM32</td>
             </tr>
             <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Global-Game-Jam-2025-Rose-Game-Bubbles" target="_blank">Outlast -1 (Global Game Jam 2025)</a></td>
+                <td>Game Development</td>
+                <td>Unity, C#, (Group Project)</td>
+            </tr>
+            <tr>
                 <td><a href="https://github.com/giraydorukyurt7/Website-Saver-Google-Extension" target="_blank">Website Saver (Google Extension)</a></td>
                 <td>Browser Extension</td>
                 <td>JavaScript, CSS, HTML</td>
