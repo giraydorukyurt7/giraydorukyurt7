@@ -96,6 +96,11 @@
                 <td>Python</td>
             </tr>
             <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Safety-Helmet-Object-Detection" target="_blank">Safety Helmet Object Detection</a></td>
+                <td>RCNN</td>
+                <td>Python</td>
+            </tr>            
+            <tr>
                 <td><a href="https://github.com/giraydorukyurt7/OptimalPlantCareXML" target="_blank">Optimal Plant Care XML</a></td>
                 <td>XML, XSLT</td>
                 <td>XML, XSLT, JavaScript, CSS, Python</td>
@@ -248,4 +253,4 @@
                 <td>Python</td>
             </tr>
         </tbody>
-    </table>
+</table>
