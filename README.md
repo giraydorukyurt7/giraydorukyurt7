@@ -181,23 +181,58 @@
         </thead>
         <tbody>
             <tr>
-                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/ANN" target="_blank">ANN - Number Classification</a></td>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/ANN_MNIST_NUMBER_CLASSIFICATION" target="_blank">ANN - MNIST Number Classification</a></td>
                 <td>ANN</td>
                 <td>Python</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/CNN" target="_blank">CNN - Garbage Classification</a></td>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/ANN_CIFAR10_IMAGE_CLASSIFICATION" target="_blank">ANN - CIFAR10 Image Classification</a></td>
+                <td>ANN</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/CNN_GARBAGE_CLASSIFICATION" target="_blank">CNN - Garbage Classification</a></td>
                 <td>CNN</td>
                 <td>Python</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/RNN" target="_blank">RNN - Airplane Passenger Number Estimation</a></td>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/RNN_AIRPLANE_PASSENGER_NUMBER_ESTIMATION" target="_blank">RNN - Airplane Passenger Number Estimation</a></td>
                 <td>RNN</td>
                 <td>Python</td>
             </tr>
             <tr>
-                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/LSTM" target="_blank">LSTM - Tesla Stock Forecast Estimation</a></td>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/LSTM_TESLA_STOCK_FORECAST_ESTIMATION" target="_blank">LSTM - Tesla Stock Forecast Estimation</a></td>
                 <td>LSTM</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/LSTM_IMDB_MOVIE_REVIEWS" target="_blank">LSTM - IMDB Movie Reviews</a></td>
+                <td>LSTM</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/GAN_MNIST_NUMBER_IMAGE_GENERATOR" target="_blank">GAN - MNIST Number Image Generator</a></td>
+                <td>GAN</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/AUTOENCODER_FASHION_MNIST_CLOTHING_CLASSIFICATION" target="_blank">AUTOENCODER - Fashion MNIST Clothing Classification</a></td>
+                <td>AUTOENCODER</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/TRANSFORMERS_IMDB_REVIEWS_SENTIMENT_ANALYSIS" target="_blank">TRANSFORMERS - IMDB Moview Reviews Sentiment Analysis</a></td>
+                <td>TRANSFORMERS</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/TRANSFER_LEARNING_DRUG_VISION_DRUG_CLASSIFIER" target="_blank">TRANSFER LEARNING - Drug Classifier</a></td>
+                <td>TRANSFER LEARNING, CNN</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/OTHERS/FACE_EVALUATOR" target="_blank">Face Evaluator</a></td>
+                <td>DeepFace</td>
                 <td>Python</td>
             </tr>
             <tr>
