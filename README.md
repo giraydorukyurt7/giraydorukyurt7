@@ -276,7 +276,7 @@
             </tr>
             <tr>
                 <th>Project Name</th>
-                <th>Technology/Topic</th>>
+                <th>Technology/Topic</th>
                 <th>Languages</th>
             </tr>
         </thead>
