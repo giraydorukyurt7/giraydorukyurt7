@@ -166,10 +166,19 @@
                 <td>Web Application</td>
                 <td>JavaScript, CSS, HTML</td>
             </tr>
+            <tr>
+                <td><a href="https://github.com/giraydorukyurt7/CHARACTER-ARENA" target="_blank">CHARACTER ARENA</a></td>
+                <td>Web Application</td>
+                <td>REACT, FLASK(PYTHON), MYSQL</td>
+            </tr>
         </tbody>
     </table>
 
 <br>
+
+
+
+
 
 <table border="1" cellpadding="10">
         <thead>
