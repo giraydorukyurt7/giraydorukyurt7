@@ -172,6 +172,11 @@
                 <td>REACT, FLASK(PYTHON), MYSQL</td>
             </tr>
             <tr>
+                <td><a href="https://github.com/giraydorukyurt7/Rent-Estimation-System" target="_blank">Rent Estimation System</a></td>
+                <td>Machine Learning</td>
+                <td>Scikit-Learn, Ensemble Methods, Python</td>
+            </tr>
+            <tr>
                 <td><a href="https://github.com/giraydorukyurt7/IMAGE_CAPTIONING_Combining_NLP_With_CV" target="_blank">Image Captioning</a></td>
                 <td>Computer Vision + Natural Language Processing</td>
                 <td>Blip,Blip2,GPT,Clip,pyTorch,HuggingFace,Python</td>
