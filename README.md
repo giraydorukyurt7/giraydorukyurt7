@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giray Doruk Yurtseven</h1>
 <h3 align="center">Software Enginnering student on Halic University, Türkiye.</h3>
-<h4 align="center">Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision | Natural Language Processing | Big Data | Embedded Systems | Robotics | IoT | Backend & Frontend Development | Full-Stack Projects | Model Deployment | AI for Healthcare | Game Development | Software Engineering Student</h4>
+<h4 align="center">Data Science | Artificial Intelligence | Machine Learning | Deep Learning | Computer Vision | Natural Language Processing | Big Data | Embedded Systems | Robotics | IoT | Backend & Frontend Development | Full-Stack Projects | AI for Healthcare | Game Development | Software Engineering Student</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giraydorukyurt7&label=Profile%20views&color=0e75b6&style=flat" alt="giraydorukyurt7" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giraydorukyurt7" alt="giraydorukyurt7" /></a> </p> -->
