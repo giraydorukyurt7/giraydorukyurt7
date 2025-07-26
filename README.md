@@ -68,6 +68,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://github.com/openai/whisper" target="_blank" rel="noreferrer">
+  <img src="https://tukuz.com/wp-content/uploads/Whisper-AI-Logo-Vector.svg" alt="Whisper logo" width="40" height="40"/>
+</a>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giraydorukyurt7&show_icons=true&locale=en&layout=compact&langs_count=20" alt="giraydorukyurt7" /></p> -->
