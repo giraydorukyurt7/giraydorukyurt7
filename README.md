@@ -105,11 +105,15 @@
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" /><br/><sub><b>OpenCV</b></sub>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Nltk_logo.png" width="50" height="50" /><br/><sub><b>NLTK</b></sub>
+        <img src="https://raw.githubusercontent.com/giraydorukyurt7/logos/main/nltk-logo.png" width="50" height="50" /><br/><sub><b>NLTK</b></sub>
       </td>
       <td align="center">
-        <img src="https://tukuz.com/wp-content/uploads/Whisper-AI-Logo-Vector.svg" width="50" height="50" /><br/><sub><b>Whisper</b></sub>
+        <img src="https://raw.githubusercontent.com/giraydorukyurt7/logos/main/whisper-logo.png" width="50" height="50" /><br/><sub><b>Whisper</b></sub>
       </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/giraydorukyurt7/logos/main/MFA-logo.png" width="50" height="50" /><br/><sub><b>MFA</b></sub>
+      </td>
+    </tr>
     </tr>
   </table>
 </div>
