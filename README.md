@@ -100,20 +100,19 @@
         <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="50" height="50" /><br/><sub><b>PySpark</b></sub>
       </td>
     </tr>
-    <tr>
+      <tr>
+        <td align="center">
+          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" /><br/><sub><b>OpenCV</b></sub>
+        </td>
       <td align="center">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" /><br/><sub><b>OpenCV</b></sub>
+        <img src="https://raw.githubusercontent.com/giraydorukyurt7/logos/main/logos/nltk-logo.png" width="50" height="50" /><br/><sub><b>NLTK</b></sub>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/giraydorukyurt7/logos/main/nltk-logo.png" width="50" height="50" /><br/><sub><b>NLTK</b></sub>
+        <img src="https://raw.githubusercontent.com/giraydorukyurt7/logos/main/logos/whisper-logo.png" width="50" height="50" /><br/><sub><b>Whisper</b></sub>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/giraydorukyurt7/logos/main/whisper-logo.png" width="50" height="50" /><br/><sub><b>Whisper</b></sub>
+        <img src="https://raw.githubusercontent.com/giraydorukyurt7/logos/main/logos/MFA-logo.png" width="50" height="50" /><br/><sub><b>MFA</b></sub>
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/giraydorukyurt7/logos/main/MFA-logo.png" width="50" height="50" /><br/><sub><b>MFA</b></sub>
-      </td>
-    </tr>
     </tr>
   </table>
 </div>
