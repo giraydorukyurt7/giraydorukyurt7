@@ -2,7 +2,7 @@
 <h3 align="center">📍 Software Engineering Student at Halic University, Türkiye</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D6FF3&center=true&vCenter=true&width=800&lines=Data+Science+%7C+Artificial+Intelligence+%7C+Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Natural+Language+Processing+%7C+Embedded+Systems+%7C+IOT;Full-Stack+Development+%7C+AI+for+Healthcare+%7C+Game+Development" alt="Expertise Areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D6FF3&center=true&vCenter=true&width=950&lines=Data+Science+%7C+Artificial+Intelligence+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision+%7C+Natural+Language+Processing;Embedded+Systems+%7C+Internet+of+Things+(IoT)+%7C+AI+for+Healthcare;Full-Stack+Development+%7C+Game+Development+%7C+Software+Engineering" alt="Expertise Areas" />
 </div>
 
 <p align="center"> 
