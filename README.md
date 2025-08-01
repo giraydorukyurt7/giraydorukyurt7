@@ -57,8 +57,6 @@
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /><br/><sub><b>C++</b></sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" /><br/><sub><b>C#</b></sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /><br/><sub><b>JavaScript</b></sub></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" /><br/><sub><b>HTML</b></sub></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" /><br/><sub><b>CSS</b></sub></td>
     </tr>
   </table>
 </div>
@@ -122,18 +120,15 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" /><br/><sub><b>React</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50" height="50" /><br/><sub><b>Flask</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="50" /><br/><sub><b>.NET</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Python_icon_%28black_and_white%29.svg" width="50" height="50" /><br/><sub><b>Tkinter</b></sub>
-      </td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" /><br/><sub><b>HTML</b></sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" /><br/><sub><b>CSS</b></sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /><br/><sub><b>JavaScript</b></sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" /><br/><sub><b>React</b></sub></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50" height="50" /><br/><sub><b>Flask</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="50" height="50" /><br/><sub><b>XML</b></sub></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/XSLT.svg" width="50" height="50" /><br/><sub><b>XSLT</b></sub></td>
     </tr>
   </table>
 </div>
