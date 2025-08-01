@@ -432,7 +432,7 @@
 #### 🧠 Artificial Intelligence Intern – [Ayasis Software & IT Technologies Ltd.](https://www.ayasis.com)
 **📅 July 2025 – Present**  
 _Remote_  
-Currently working on AI-based R&D project.
+Currently working on an AI-based R&D project.
 
 ---
 
@@ -455,10 +455,11 @@ Worked on STM32-based flight control software with Kalman filter integration for
 **📅 January 2025**  
 **Role:** Game Developer – Theme: “Bubble”  
 Developed a horror-themed game in 48 hours using Unity and C#. Implemented AI enemy behavior, hiding mechanics, and post-processing effects.
+View game on [itch.io](https://fatihsama.itch.io/outlast-1)
 
 #### 🚀 [Cumhuriyet Rocket Team – Teknofest Rocket Competition 2024](https://www.linkedin.com/company/cumhuriyetrokettakimi/)
 **📅 December 2023 – March 2024**  
-**Role:** Software Team Member – A2 Category  
+**Role:** Software Team Member – A2 Category, Medium Altitude 
 Gained hands-on experience with STM32 (STDPeriph, HAL, register-level). Designed flight algorithms and sensor integration techniques. Authored technical reports and performed tests on embedded platforms.
 
 ---
