@@ -168,7 +168,7 @@
     <tr>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" /><br/><sub><b>Git</b></sub></td>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="50" height="50" /><br/><sub><b>OpenGL</b></sub></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Atlassian_SourceTree_Logo.svg" width="50" height="50" /><br/><sub><b>SourceTree</b></sub></td>
+      <td align="center"><img src="https://github.com/giraydorukyurt7/giraydorukyurt7/blob/main/logos/sourcetree-logo.png" width="50" height="50" /><br/><sub><b>SourceTree</b></sub></td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50" /><br/><sub><b>MATLAB</b></sub></td>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="50" height="50" /><br/><sub><b>Unity</b></sub></td>
     </tr>
