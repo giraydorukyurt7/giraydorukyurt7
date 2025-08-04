@@ -125,6 +125,7 @@
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /><br/><sub><b>JavaScript</b></sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" /><br/><sub><b>React</b></sub></td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50" height="50" /><br/><sub><b>Flask</b></sub></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" /><br/><sub><b>.NET</b></sub></td>
     </tr>
     <tr>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="50" height="50" /><br/><sub><b>XML</b></sub></td>
@@ -132,6 +133,7 @@
     </tr>
   </table>
 </div>
+
 
 #### 🗄️ Databases
 <div align="center">
@@ -157,7 +159,7 @@
   </table>
 </div>
 
-#### 🧰 Tools & Platforms
+#### 🧰 Tools & Others
 <div align="center">
   <table>
     <tr>
@@ -166,6 +168,7 @@
       <td align="center"><img src="https://github.com/giraydorukyurt7/giraydorukyurt7/blob/main/logos/sourcetree-logo.png" width="50" height="50" /><br/><sub><b>SourceTree</b></sub></td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50" /><br/><sub><b>MATLAB</b></sub></td>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="50" height="50" /><br/><sub><b>Unity</b></sub></td>
+      <td align="center"><img src="https://github.com/giraydorukyurt7/giraydorukyurt7/blob/main/logos/tkinter-logo.png" width="50" height="50" /><br/><sub><b>Tkinter</b></sub></td>
     </tr>
   </table>
 </div>
