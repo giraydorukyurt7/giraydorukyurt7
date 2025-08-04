@@ -125,7 +125,7 @@
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /><br/><sub><b>JavaScript</b></sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" /><br/><sub><b>React</b></sub></td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50" height="50" /><br/><sub><b>Flask</b></sub></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" height="50" /><br/><sub><b>.NET</b></sub></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="50" /><br/><sub><b>.NET</b></sub></td>
     </tr>
     <tr>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="50" height="50" /><br/><sub><b>XML</b></sub></td>
