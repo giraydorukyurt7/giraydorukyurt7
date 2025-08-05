@@ -116,7 +116,7 @@
   </table>
 </div>
 
-#### 🌐 Web Development
+#### 🌐 Web & UI Development
 <div align="center">
   <table>
     <tr>
@@ -130,6 +130,7 @@
     <tr>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="50" height="50" /><br/><sub><b>XML</b></sub></td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/XSLT.svg" width="50" height="50" /><br/><sub><b>XSLT</b></sub></td>
+      <td align="center"><img src="https://github.com/giraydorukyurt7/giraydorukyurt7/blob/main/logos/tkinter-logo.png" width="50" height="50" /><br/><sub><b>Tkinter</b></sub></td>
     </tr>
   </table>
 </div>
@@ -168,7 +169,6 @@
       <td align="center"><img src="https://github.com/giraydorukyurt7/giraydorukyurt7/blob/main/logos/sourcetree-logo.png" width="50" height="50" /><br/><sub><b>SourceTree</b></sub></td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50" /><br/><sub><b>MATLAB</b></sub></td>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="50" height="50" /><br/><sub><b>Unity</b></sub></td>
-      <td align="center"><img src="https://github.com/giraydorukyurt7/giraydorukyurt7/blob/main/logos/tkinter-logo.png" width="50" height="50" /><br/><sub><b>Tkinter</b></sub></td>
     </tr>
   </table>
 </div>
