@@ -11,27 +11,36 @@
 
 ---
 
-#### 🌐 Web & UI Development
-<div align="center">
-  <table>
-    <tr>
-      <!-- Languages & Markup -->
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" /><br/><sub><b>HTML</b></sub></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" /><br/><sub><b>CSS</b></sub></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /><br/><sub><b>JavaScript</b></sub></td>
-      <td align="center"><img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="50" height="50" /><br/><sub><b>XML</b></sub></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/XSLT.svg" width="50" height="50" /><br/><sub><b>XSLT</b></sub></td>
-    </tr>
-    <tr>
-      <!-- Frameworks & UI -->
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" /><br/><sub><b>React</b></sub></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50" height="50" /><br/><sub><b>Flask</b></sub></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50" /><br/><sub><b>FastAPI</b></sub></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="50" /><br/><sub><b>.NET</b></sub></td>
-      <td align="center"><img src="https://github.com/giraydorukyurt7/giraydorukyurt7/blob/main/logos/tkinter-logo.png" width="50" height="50" /><br/><sub><b>Tkinter</b></sub></td>
-    </tr>
-  </table>
-</div>
+
+### 🌐 Connect With Me
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://twitter.com/giraydorukyurt7">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/><br/>
+        <sub><b>Twitter</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/giraydorukyurt7">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/giraydorukyurt7">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/><br/>
+        <sub><b>Instagram</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@giraydorukyurt7">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40"/><br/>
+        <sub><b>YouTube</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 </div>
@@ -113,20 +122,24 @@
 <div align="center">
   <table>
     <tr>
+      <!-- Languages & Markup -->
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" /><br/><sub><b>HTML</b></sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" /><br/><sub><b>CSS</b></sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" /><br/><sub><b>JavaScript</b></sub></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" /><br/><sub><b>React</b></sub></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50" height="50" /><br/><sub><b>Flask</b></sub></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="50" /><br/><sub><b>.NET</b></sub></td>
-    </tr>
-    <tr>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="50" height="50" /><br/><sub><b>XML</b></sub></td>
       <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/XSLT.svg" width="50" height="50" /><br/><sub><b>XSLT</b></sub></td>
+    </tr>
+    <tr>
+      <!-- Frameworks & UI -->
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" /><br/><sub><b>React</b></sub></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50" height="50" /><br/><sub><b>Flask</b></sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50" /><br/><sub><b>FastAPI</b></sub></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50" height="50" /><br/><sub><b>.NET</b></sub></td>
       <td align="center"><img src="https://github.com/giraydorukyurt7/giraydorukyurt7/blob/main/logos/tkinter-logo.png" width="50" height="50" /><br/><sub><b>Tkinter</b></sub></td>
     </tr>
   </table>
 </div>
+
 
 
 #### 🗄️ Databases
