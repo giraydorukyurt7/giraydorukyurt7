@@ -436,37 +436,56 @@
 
 ### 🏆 Experiences
 
-#### 🧠 Artificial Intelligence Intern – [Ayasis Software & IT Technologies Ltd.](https://www.ayasis.com)
-**📅 July 2025 – Present**  
-_Remote_  
-Currently working on an AI-based R&D project.
+#### 🧠 R&D Artificial Intelligence & Backend Engineer – [Ayasis Technology (Software & IT Solutions)](https://www.ayasis.com)
+**📅 July 2025 – August 2025**  
+Started and completed the **“Phoneme-Based Pronunciation Accuracy Analysis”** project from scratch.  
+- **Goal:** Analyze English pronunciation at the phoneme level; detect correct, substituted, omitted, and inserted sounds.  
+- Compared & integrated ASR/alignment tools (**MFA, Whisper, Gentle, Wav2Vec2**) → finalized with a **Wav2Vec2-based pipeline**.  
+- Designed a **modular system** (G2P, segmentation, phoneme features, comparison) with **CLI** and **FastAPI** endpoints.  
+- Produced **HTML reports**, **timeline visualizations**, and detailed **phoneme-level metrics**.  
+- Authored comprehensive **technical documentation** for pipeline design and usage.
 
 ---
 
 ### 🚀 Competitions
 
 #### 🧠 [NEUROCTULUS – Artificial Intelligence in Healthcare | Teknofest 2025](https://www.linkedin.com/company/neuroctulus/)
-**📅 November 2024 – Present**  **FINALIST**  
+**📅 Nov 2024 – Present** — **FINALIST (15th / 3,271 teams)**  
 **Role:** Team Leader – University and Above Category  
-Leading an interdisciplinary team of 5 members in developing deep learning models for stroke detection and staging.  
-- 🧠 **Phase 1:** Built a binary classifier (stroke vs. no stroke) on CT images using TensorFlow and PyTorch.
-- 🕒 **Phase 2:** Developed temporal classification for ischemic stroke on MRI data: Hyperacute-Acute, Subacute, Chronic.
-- ⚙️ Responsible for project planning, preprocessing pipelines, model development, validation, and technical documentation.
+Led a 5-member interdisciplinary team (medical doctor + software engineers).  
+- **Phase 1:** Ensemble **CNN** on brain **CT** to detect stroke presence (ischemic/hemorrhagic).  
+- **Phase 2:** Hierarchical pipeline on MRI types (**ADC, DWI, T2A**) to classify stages (**Hyperacute-Acute, Subacute, Chronic**).  
+- Hands-on with **DICOM/NIfTI**, dataset curation, and project coordination.
 
-#### 🚀 [İstikbal Rocket Team – Teknofest Rocket Competition 2025](https://www.linkedin.com/company/i%CC%87stikbal-roket-tak%C4%B1m%C4%B1/)
-**📅 June 2024 – April 2025**  
-**Role:** Software Team Member – A2 Category, Medium Altitude  
-Worked on STM32-based flight control software with Kalman filter integration for sensor fusion. Designed and tested algorithms for real-time altitude and trajectory prediction.
+#### 🚀 [BTK Datathon 2025](https://giraydorukyurt7.github.io/Portfolio_Giray/)
+**📅 2025**  
+**Role:** Software Team Member (2-person team)  
+Predicted **session value** in a large-scale e-commerce dataset using **ML + feature engineering** for a regression task.
 
-#### 👾 [Rose Game – Global Game Jam 2025 (Bilgi University)](https://www.linkedin.com/posts/muhammed-baki-can-karag%C3%B6z_gamejam-game-developer-ugcPost-7294344865629323267-Ja-n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-Ypm4BfToohsshMTx8F1CY4OB3hYjO2eg)
-**📅 January 2025**  
-**Role:** Game Developer – Theme: “Bubble”  
-Developed a horror-themed game in 48 hours using Unity and C#. Implemented AI enemy behavior, hiding mechanics, and post-processing effects.
+#### 🛒 [Trendyol E-Commerce Hackathon 2025 (TEKNOFEST) – “Shopelope” Team](https://giraydorukyurt7.github.io/Portfolio_Giray/)
+**📅 2025**  
+**Role:** Software Team Member (5-person team)  
+Trained **ranking models** for Kaggle-style submissions; predicted **click/order** outcomes in user search sessions with extensive **feature engineering** and **large-scale modeling**.
+
+#### 🎓 [BTK Hackathon 2025 – “Promptitron” Team](https://giraydorukyurt7.github.io/Portfolio_Giray/)
+**📅 2025**  
+**Role:** Software Team Member (3-person team)  
+Built a **RAG-based educational assistant** using **Google Gemini**. Implemented retrieval over the Turkish high school curriculum; backend logic + model integration for **summarization** and **question generation**.
+
+#### 🚀 [İstikbal Rocket Team – Teknofest Rocket Competition 2025](https://giraydorukyurt7.github.io/Portfolio_Giray/)
+**📅 2025**  
+**Role:** Software Team Member – A2 Category, Medium Altitude (15-person team)  
+Designed **advanced flight control algorithms**, applied **Extended Kalman Filter** for sensor fusion/noise reduction, and built an **ML model for carbon emission measurement** as scientific payload.
+
+#### 👾 [Rose Game – Global Game Jam 2025 (Bilgi University)](https://www.linkedin.com/posts/muhammed-baki-can-karag%C3%B6z_gamejam-game-developer-ugcPost-7294344865629323267-Ja-n)
+**📅 Jan 2025** — Theme: “Bubble”  
+**Role:** Game Developer (5-person, 48-hour sprint)  
+Developed a horror-themed game in **Unity + C#** with enemy **AI (NavMeshAgent)**, stealth mechanics, and post-processing.  
 View game on [itch.io](https://fatihsama.itch.io/outlast-1)
 
-#### 🚀 [Cumhuriyet Rocket Team – Teknofest Rocket Competition 2024](https://www.linkedin.com/company/cumhuriyetrokettakimi/)
-**📅 December 2023 – March 2024**  
-**Role:** Software Team Member – A2 Category, Medium Altitude 
-Gained hands-on experience with STM32 (STDPeriph, HAL, register-level). Designed flight algorithms and sensor integration techniques. Authored technical reports and performed tests on embedded platforms.
+#### 🚀 [Cumhuriyet Rocket Team – Teknofest Rocket Competition 2024](https://giraydorukyurt7.github.io/Portfolio_Giray/)
+**📅 2023 – 2024**  
+**Role:** Software Team Member – A2 Category, Medium Altitude (15-person team)  
+Designed **flight control algorithms**, researched **sensor acquisition**, applied **Kalman filtering**, contributed to technical reports, and trained on **STM32** (STDPeriph, HAL, register-level).
 
 ---
