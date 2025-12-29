@@ -310,97 +310,136 @@
 </table>
 
 ### 📚 Learning Projects
+
 <table border="1" cellpadding="10" align="center">
   <thead>
     <tr style="background-color: #6e40c9; color: white;">
-      <th width="30%">Project Name</th>
-      <th width="40%">Technology/Topic</th>
-      <th width="30%">Languages</th>
+      <th width="34%">Project Name</th>
+      <th width="46%">Technology/Topic</th>
+      <th width="20%">Languages</th>
     </tr>
   </thead>
+
   <tbody>
+    <!-- ===================== Deep Learning ===================== -->
+    <tr>
+      <td colspan="3" align="center"><b>Deep Learning</b></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/ANN_MNIST_NUMBER_CLASSIFICATION">🔢 ANN - MNIST Number Classification</a></td>
-      <td>ANN</td>
+      <td>ANN, Classification</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/ANN_CIFAR10_IMAGE_CLASSIFICATION">🖼️ ANN - CIFAR10 Image Classification</a></td>
-      <td>ANN</td>
+      <td>ANN, Image Classification</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/CNN_GARBAGE_CLASSIFICATION">🗑️ CNN - Garbage Classification</a></td>
-      <td>CNN</td>
+      <td>CNN, Image Classification</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/RNN_AIRPLANE_PASSENGER_NUMBER_ESTIMATION">✈️ RNN - Airplane Passenger Estimation</a></td>
-      <td>RNN</td>
+      <td>RNN, Time Series Forecasting</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/LSTM_TESLA_STOCK_FORECAST_ESTIMATION">📈 LSTM - Tesla Stock Forecast</a></td>
-      <td>LSTM</td>
+      <td>LSTM, Time Series Forecasting</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/LSTM_IMDB_MOVIE_REVIEWS">🎬 LSTM - IMDB Movie Reviews</a></td>
-      <td>LSTM</td>
+      <td>LSTM, NLP, Sentiment Classification</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/GAN_MNIST_NUMBER_IMAGE_GENERATOR">🎨 GAN - MNIST Image Generator</a></td>
-      <td>GAN</td>
+      <td>GAN, Generative Modeling</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/AUTOENCODER_FASHION_MNIST_CLOTHING_CLASSIFICATION">👕 Autoencoder - Fashion Classification</a></td>
-      <td>Autoencoder</td>
+      <td>Autoencoder, Representation Learning</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/TRANSFORMERS_IMDB_REVIEWS_SENTIMENT_ANALYSIS">💬 Transformers - Sentiment Analysis</a></td>
-      <td>Transformers</td>
+      <td>Transformers, NLP, Transfer Learning</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/TRANSFER_LEARNING_DRUG_VISION_DRUG_CLASSIFIER">💊 Transfer Learning - Drug Classifier</a></td>
-      <td>Transfer Learning, CNN</td>
+      <td>Transfer Learning, CNN, Image Classification</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Deep_Learning/OTHERS/FACE_EVALUATOR">😊 Face Evaluator</a></td>
-      <td>DeepFace</td>
+      <td>DeepFace, Face Analysis</td>
       <td>Python</td>
+    </tr>
+    <!-- ===================== Computer Vision / OpenCV ===================== -->
+    <tr>
+      <td colspan="3" align="center"><b>Computer Vision (OpenCV / DNN)</b></td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/02_DNN_APPLICATION_IMAGE_CLASSIFICATION">🖼️ DNN - Image Classification</a></td>
-      <td>OpenCV, DNN</td>
+      <td>OpenCV, DNN, Image Classification</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/03_DNN_WITH_SSD_MODEL_APPLICATION_SINGLE_CLASS_IMAGE_CLASSIFICATION">🔍 DNN with SSD - Single Class</a></td>
-      <td>OpenCV, SSD</td>
+      <td>OpenCV, SSD, Object Detection</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/04_DNN_WITH_SSD_MODEL_APPLICATION_REAL-TIME_OBJECT_RECOGNITION">🔦 Real-Time Object Recognition</a></td>
-      <td>OpenCV, SSD</td>
+      <td>OpenCV, SSD, Real-Time Inference</td>
       <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/OpenCV/06_OpenCV_APPLICATIONS/05_DNN_APPLICATION_VIDEO_FACE_DETECTION_BASED_ON_RESIDUAL_NETWORK">🎥 Video Face Detection</a></td>
-      <td>OpenCV, ResNet</td>
+      <td>OpenCV, ResNet, Video Face Detection</td>
       <td>Python</td>
+    </tr>
+    <!-- ===================== NLP ===================== -->
+    <tr>
+      <td colspan="3" align="center"><b>Natural Language Processing</b></td>
     </tr>
     <tr>
       <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/tree/main/Natural_Language_Processing">📝 Sentiment Analysis (Amazon)</a></td>
       <td>NLP, Sentiment Analysis</td>
       <td>Python</td>
     </tr>
+    <!-- ===================== NLP (Markov Models) ===================== -->
+    <tr>
+      <td colspan="3" align="center"><b>NLP — Markov Models (Classical / Probabilistic)</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/blob/main/Natural_Language_Processing/Markov_Models/Markov_Model_Classifier_Text_Classifier.ipynb">🧠 Markov Model - Text Classifier</a></td>
+      <td>Markov Chains, N-grams, Probabilistic Text Classification</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/blob/main/Natural_Language_Processing/Markov_Models/POETRY_GENERATOR.ipynb">✍️ Markov Model - Poetry Generator</a></td>
+      <td>Markov Chains, N-grams, Text Generation</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/blob/main/Natural_Language_Processing/Markov_Models/ARTICLE_SPINNER.ipynb">🔁 Markov Model - Article Rewriter</a></td>
+      <td>Markov Chains, N-grams, Paraphrasing (Educational / Data Augmentation)</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/giraydorukyurt7/Data_Science-And-Artificial_Intelligence-Journeys/blob/main/Natural_Language_Processing/Markov_Models/CIPHER_DECRYPTION.ipynb">🔐 Markov Model - Cipher Decryption</a></td>
+      <td>Classical Cryptanalysis, N-gram Scoring, Probabilistic Decoding</td>
+      <td>Python</td>
+    </tr>
   </tbody>
 </table>
+
 
 ### 🧰 Utility Projects
 <table border="1" cellpadding="10" align="center">
